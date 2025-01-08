@@ -47,13 +47,18 @@ Shop Quốc Bảo chuyên cung cấp các phụ kiện điện thoại chất l�
 
 4. **Chạy ứng dụng**:
    - Mở trình duyệt và truy cập vào `http://localhost/CSN/PHP_web/index.php`.
-   - 
 ---
 
 ## Sử dụng
--Truy cập vào trang chủ để tra cứu các phụ kiện điện thoại.
--Sử dụng các bộ lọc để thu hẹp kết quả tìm kiếm theo nhu cầu.
--Nhấp vào nút đăng nhập trên thanh điều hướng để đăng nhập/đăng ký tài khoản.
--Nhấp vào một sản phẩm để xem thông tin chi tiết và để lại đánh giá (nếu đã đăng nhập và tải lại trang).
+- Truy cập vào trang chủ để tra cứu các phụ kiện điện thoại.
+- Sử dụng các bộ lọc để thu hẹp kết quả tìm kiếm theo nhu cầu.
+- Nhấp vào nút đăng nhập trên thanh điều hướng để đăng nhập/đăng ký tài khoản.
+- Nhấp vào một sản phẩm để xem thông tin chi tiết và để lại đánh giá (nếu đã đăng nhập và tải lại trang).
 
 ---
+## Thông tin liên hệ
+- Họ tên: La Thuấn Khang
+- Lớp: DA22TTD
+- MSSV: 110122090
+- Số điện thoại: 0967393450
+- Email: lathuankhang2004@gmai.com
