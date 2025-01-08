@@ -1,15 +1,14 @@
 # Thiết kế ứng dụng web giới thiệu sản phẩm phụ kiện điện thoại shop Quốc Bảo
 
 ## Mục lục
-- [Thiết kế ứng dụng web giới thiệu sản phẩm phụ kiện điện thoại shop Quốc Bảo](#Thiết kế ứng dụng web giới thiệu sản phẩm phụ kiện điện thoại shop Quốc Bảo)
+- [Thiết kế ứng dụng web giới thiệu sản phẩm phụ kiện điện thoại shop Quốc Bảo](#thiết-kế-ứng-dụng-web-giới-thiệu-sản-phẩm-phụ-kiện-điện-thoại-shop-Quốc-Bảo)
   - [Mục lục](#mục-lục)
   - [Giới thiệu](#giới-thiệu)
   - [Tính năng](#tính-năng)
   - [Giới Thiệu Về Repositories của tôi](#giới-thiệu-về-repositories-của-tôi)
   - [Cài đặt](#cài-đặt)
   - [Sử dụng](#sử-dụng)
-  - [Giấy phép](#giấy-phép)
-
+  - [Thông tin liên lạc](#thông-tin-liên-lạc)
 ---
 
 ## Giới thiệu
@@ -61,4 +60,4 @@ Shop Quốc Bảo chuyên cung cấp các phụ kiện điện thoại chất l�
 - Lớp: DA22TTD
 - MSSV: 110122090
 - Số điện thoại: 0967393450
-- Email: lathuankhang2004@gmai.com
+- Email: lathuankhang2004@gmail.com
